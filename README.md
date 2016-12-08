@@ -1,6 +1,8 @@
 # Cinephilia
 A simple application to show popular movies
 
+It uses **Mvc** pattern
+
 ### Contains
 1. Dagger
 2. Retrofit
